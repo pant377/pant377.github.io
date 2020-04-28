@@ -2,12 +2,6 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300,400|Pacifico";
 
-/*
-	Intensify by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
 /* Reset 1576 */
 	
 
@@ -111,7 +105,6 @@
 		.container {
 			width: 80em;
 		}
-
 	}
 
 	@media screen and (max-width: 1280px) {
@@ -1673,7 +1666,7 @@
 		}
 
 	strong, b {
-		color: #727a82;
+		color: #2c2c2c;
 		font-weight: 700;
 	}
 
@@ -3162,14 +3155,11 @@
 		}
 
 		#footer .copyright {
-			display: inline-block;
-			color: #a7d9e7;
+			color: #000000;
 			font-size: 0.75em;
-			margin: 0 0 2em 0;
+			margin: 0 0 1em 0;
 			padding: 0;
 			text-align: center;
-			border-top: 1px solid rgba(255, 255, 255, 0.25);
-			padding: 2em 10em;
 		}
 
 		@media screen and (max-width: 980px) {
@@ -3188,7 +3178,6 @@
 			#footer .copyright {
 				padding: 2em 5em;
 			}
-
 		}
 
 		@media screen and (max-width: 480px) {
