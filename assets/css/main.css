@@ -1569,8 +1569,8 @@
 
 	}
 
-	body {
-		background: rgb(255, 242, 233);
+	body /* background color */{
+		background: rgb(255, 237, 224);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
