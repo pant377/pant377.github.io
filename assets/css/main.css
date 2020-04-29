@@ -1701,6 +1701,7 @@
 	}
 
 	h3 {
+		padding-top: 20px;
 		font-size: 1.25em;
 	}
 
@@ -1775,12 +1776,12 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #000000;
+		/*border-bottom: solid 1px #000000;*/
 		margin: 2em 0;
 	}
 
 		hr.major {
-			margin: 1em 0;
+			margin: 0em 0;
 		}
 
 	.align-left {
